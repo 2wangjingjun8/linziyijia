@@ -1,0 +1,1494 @@
+---------------------------------------------------------------
+[ 2018-05-22T10:00:48+08:00 ] 106.11.227.235 GET /
+[ info ] yunxi.yunw8.com/ [运行时间：0.336097s][吞吐率：2.98req/s] [内存消耗：1,285.13kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept-encoding' => 'gzip',
+  'user-agent' => 'Mozilla/5.0 (iPad; CPU OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:18:36+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=aea2f5d1b5d409f21e20578894fbe1cb2c58fa82&timestamp=1526955516&nonce=691271603&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=aea2f5d1b5d409f21e20578894fbe1cb2c58fa82&timestamp=1526955516&nonce=691271603&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.180799s][吞吐率：5.53req/s] [内存消耗：2,090.45kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'aea2f5d1b5d409f21e20578894fbe1cb2c58fa82',
+  'timestamp' => '1526955516',
+  'nonce' => '691271603',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:36:01+08:00 ] 61.140.237.1 GET /index/index/menu
+[ info ] yunxi.yunw8.com/index/index/menu [运行时间：0.984867s][吞吐率：1.02req/s] [内存消耗：2,107.27kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'menu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.104 Safari/537.36 Core/1.53.4620.400 QQBrowser/9.7.13014.400',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate, sdch',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->menu[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:36:53+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=14924fa512ba70e07f0a10510b1b40b6d7d7e32c&timestamp=1526956613&nonce=2135201358&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=14924fa512ba70e07f0a10510b1b40b6d7d7e32c&timestamp=1526956613&nonce=2135201358&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.048355s][吞吐率：20.68req/s] [内存消耗：2,091.40kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '14924fa512ba70e07f0a10510b1b40b6d7d7e32c',
+  'timestamp' => '1526956613',
+  'nonce' => '2135201358',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:36:53+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.044526s][吞吐率：22.46req/s] [内存消耗：2,041.90kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:37:37+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=4200d3e40c091163895928b4cc1867dc1dc529ed&timestamp=1526956657&nonce=1281679040&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=4200d3e40c091163895928b4cc1867dc1dc529ed&timestamp=1526956657&nonce=1281679040&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.049566s][吞吐率：20.18req/s] [内存消耗：2,091.30kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '4200d3e40c091163895928b4cc1867dc1dc529ed',
+  'timestamp' => '1526956657',
+  'nonce' => '1281679040',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:37:39+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=1abe6dfc5588f2a92a984dc7e167fb3ceef733eb&timestamp=1526956659&nonce=1480817184&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=1abe6dfc5588f2a92a984dc7e167fb3ceef733eb&timestamp=1526956659&nonce=1480817184&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.047146s][吞吐率：21.21req/s] [内存消耗：2,091.36kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '1abe6dfc5588f2a92a984dc7e167fb3ceef733eb',
+  'timestamp' => '1526956659',
+  'nonce' => '1480817184',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:37:39+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.041071s][吞吐率：24.35req/s] [内存消耗：2,041.90kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:37:53+08:00 ] 61.151.178.165 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.041361s][吞吐率：24.18req/s] [内存消耗：2,040.73kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 6.0.1; OPPO R9s Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/37.0.0.0 Mobile MQQBrowser/6.9 TBS/036906 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'yunxi.yunw8.com',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:40:11+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=33920403b55819ad5b52e910a10b85e1feb222f1&timestamp=1526956810&nonce=1391344330&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=33920403b55819ad5b52e910a10b85e1feb222f1&timestamp=1526956810&nonce=1391344330&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.044164s][吞吐率：22.64req/s] [内存消耗：2,091.16kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '33920403b55819ad5b52e910a10b85e1feb222f1',
+  'timestamp' => '1526956810',
+  'nonce' => '1391344330',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:40:11+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.051318s][吞吐率：19.49req/s] [内存消耗：2,041.58kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:40:23+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=b6c68291acbb298ff9de3765a08c8da84903bea9&timestamp=1526956823&nonce=1879633733&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=b6c68291acbb298ff9de3765a08c8da84903bea9&timestamp=1526956823&nonce=1879633733&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.046242s][吞吐率：21.63req/s] [内存消耗：2,091.16kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'b6c68291acbb298ff9de3765a08c8da84903bea9',
+  'timestamp' => '1526956823',
+  'nonce' => '1879633733',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:40:23+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.039452s][吞吐率：25.35req/s] [内存消耗：2,043.40kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:40:30+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=c9a0563b021ccb8116ade2a54d6a9becab1bf17f&timestamp=1526956830&nonce=807795949&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=c9a0563b021ccb8116ade2a54d6a9becab1bf17f&timestamp=1526956830&nonce=807795949&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.043138s][吞吐率：23.18req/s] [内存消耗：2,091.18kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'c9a0563b021ccb8116ade2a54d6a9becab1bf17f',
+  'timestamp' => '1526956830',
+  'nonce' => '807795949',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:40:30+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.038026s][吞吐率：26.30req/s] [内存消耗：2,043.40kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:45:31+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=f209430f9815e45bf439cf05d5f81d07cada401f&timestamp=1526957131&nonce=120600046&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=f209430f9815e45bf439cf05d5f81d07cada401f&timestamp=1526957131&nonce=120600046&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.047353s][吞吐率：21.12req/s] [内存消耗：2,091.34kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'f209430f9815e45bf439cf05d5f81d07cada401f',
+  'timestamp' => '1526957131',
+  'nonce' => '120600046',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:45:32+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.046343s][吞吐率：21.58req/s] [内存消耗：2,043.70kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:45:45+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=0e5eaff175c308b7a382c7ee73b56dec574750af&timestamp=1526957145&nonce=1691530622&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=0e5eaff175c308b7a382c7ee73b56dec574750af&timestamp=1526957145&nonce=1691530622&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.046119s][吞吐率：21.68req/s] [内存消耗：2,091.34kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '0e5eaff175c308b7a382c7ee73b56dec574750af',
+  'timestamp' => '1526957145',
+  'nonce' => '1691530622',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:45:46+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.041911s][吞吐率：23.86req/s] [内存消耗：2,041.88kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:48:44+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=8e3b1b683125d9001f830094e4467e95b5ee2cd0&timestamp=1526957324&nonce=511591436&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=8e3b1b683125d9001f830094e4467e95b5ee2cd0&timestamp=1526957324&nonce=511591436&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.036228s][吞吐率：27.60req/s] [内存消耗：2,091.14kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '8e3b1b683125d9001f830094e4467e95b5ee2cd0',
+  'timestamp' => '1526957324',
+  'nonce' => '511591436',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:48:44+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.037053s][吞吐率：26.99req/s] [内存消耗：2,043.45kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:52:38+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.035910s][吞吐率：27.85req/s] [内存消耗：2,041.58kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:52:38+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=27d774048902292d3b2b39197f9617801c442288&timestamp=1526957558&nonce=1282359223&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=27d774048902292d3b2b39197f9617801c442288&timestamp=1526957558&nonce=1282359223&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.041289s][吞吐率：24.22req/s] [内存消耗：2,091.16kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '27d774048902292d3b2b39197f9617801c442288',
+  'timestamp' => '1526957558',
+  'nonce' => '1282359223',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:53:20+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=05b6afd914e161e424d8342785aeabddfde56d32&timestamp=1526957600&nonce=1027207407&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=05b6afd914e161e424d8342785aeabddfde56d32&timestamp=1526957600&nonce=1027207407&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.038883s][吞吐率：25.72req/s] [内存消耗：2,091.16kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '05b6afd914e161e424d8342785aeabddfde56d32',
+  'timestamp' => '1526957600',
+  'nonce' => '1027207407',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:53:21+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.452240s][吞吐率：2.21req/s] [内存消耗：2,047.63kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T10:53:38+08:00 ] 101.226.86.164 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.526682s][吞吐率：1.90req/s] [内存消耗：2,046.42kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.27.400 QQBrowser/9.0.2524.400',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'yunxi.yunw8.com',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:07:25+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=4639eee27a758d7839e6196749abadda8a592e50&timestamp=1526958445&nonce=954095292&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=4639eee27a758d7839e6196749abadda8a592e50&timestamp=1526958445&nonce=954095292&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s [运行时间：0.041912s][吞吐率：23.86req/s] [内存消耗：2,091.48kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '278',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '4639eee27a758d7839e6196749abadda8a592e50',
+  'timestamp' => '1526958445',
+  'nonce' => '954095292',
+  'openid' => 'oqwiq0YPewRcIlu_mlfUXrNQdT5s',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:07:28+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=d5a52501e34b8fd49e413d21378ed2cc5a4f4d9f&timestamp=1526958448&nonce=1367797613&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=d5a52501e34b8fd49e413d21378ed2cc5a4f4d9f&timestamp=1526958448&nonce=1367797613&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s [运行时间：0.036391s][吞吐率：27.48req/s] [内存消耗：2,091.11kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'd5a52501e34b8fd49e413d21378ed2cc5a4f4d9f',
+  'timestamp' => '1526958448',
+  'nonce' => '1367797613',
+  'openid' => 'oqwiq0YPewRcIlu_mlfUXrNQdT5s',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:07:59+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=776791b653d46b0b4976ebaefc16eed4ebd152e0&timestamp=1526958479&nonce=1370375665&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=776791b653d46b0b4976ebaefc16eed4ebd152e0&timestamp=1526958479&nonce=1370375665&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s [运行时间：0.037166s][吞吐率：26.91req/s] [内存消耗：2,091.11kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '776791b653d46b0b4976ebaefc16eed4ebd152e0',
+  'timestamp' => '1526958479',
+  'nonce' => '1370375665',
+  'openid' => 'oqwiq0YPewRcIlu_mlfUXrNQdT5s',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:08:15+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=e33d1eb3c82d6c789c759bba78de01424524005e&timestamp=1526958495&nonce=1002890028&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=e33d1eb3c82d6c789c759bba78de01424524005e&timestamp=1526958495&nonce=1002890028&openid=oqwiq0YPewRcIlu_mlfUXrNQdT5s [运行时间：0.035657s][吞吐率：28.05req/s] [内存消耗：2,091.11kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'e33d1eb3c82d6c789c759bba78de01424524005e',
+  'timestamp' => '1526958495',
+  'nonce' => '1002890028',
+  'openid' => 'oqwiq0YPewRcIlu_mlfUXrNQdT5s',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:42:42+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=ace9523f493a9eccbf6db935406869b519a50dc8&timestamp=1526960562&nonce=176208582&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=ace9523f493a9eccbf6db935406869b519a50dc8&timestamp=1526960562&nonce=176208582&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.038632s][吞吐率：25.89req/s] [内存消耗：2,091.04kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'ace9523f493a9eccbf6db935406869b519a50dc8',
+  'timestamp' => '1526960562',
+  'nonce' => '176208582',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:42:45+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=02f0650fc336a7047be01164b0b919cc34c8117d&timestamp=1526960565&nonce=1347662542&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=02f0650fc336a7047be01164b0b919cc34c8117d&timestamp=1526960565&nonce=1347662542&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.039747s][吞吐率：25.16req/s] [内存消耗：2,091.11kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '02f0650fc336a7047be01164b0b919cc34c8117d',
+  'timestamp' => '1526960565',
+  'nonce' => '1347662542',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:42:56+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=e5a8d8e4697904d25efba62ef1f848929421da0c&timestamp=1526960575&nonce=1770243549&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=e5a8d8e4697904d25efba62ef1f848929421da0c&timestamp=1526960575&nonce=1770243549&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.410754s][吞吐率：2.43req/s] [内存消耗：2,903.33kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'e5a8d8e4697904d25efba62ef1f848929421da0c',
+  'timestamp' => '1526960575',
+  'nonce' => '1770243549',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:43:04+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=ac4ae2a491429d31af6ead3e5373e2d546337573&timestamp=1526960584&nonce=1369795869&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=ac4ae2a491429d31af6ead3e5373e2d546337573&timestamp=1526960584&nonce=1369795869&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.041306s][吞吐率：24.21req/s] [内存消耗：2,091.11kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'ac4ae2a491429d31af6ead3e5373e2d546337573',
+  'timestamp' => '1526960584',
+  'nonce' => '1369795869',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:43:12+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=979219a8cf5ea7919cce9ab6d667e73925db3fad&timestamp=1526960592&nonce=309296920&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=979219a8cf5ea7919cce9ab6d667e73925db3fad&timestamp=1526960592&nonce=309296920&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.043722s][吞吐率：22.87req/s] [内存消耗：2,091.09kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '979219a8cf5ea7919cce9ab6d667e73925db3fad',
+  'timestamp' => '1526960592',
+  'nonce' => '309296920',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:43:24+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=91e8995b6143b4d72c7012a0832c3d0719e786c1&timestamp=1526960604&nonce=415490630&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=91e8995b6143b4d72c7012a0832c3d0719e786c1&timestamp=1526960604&nonce=415490630&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.159446s][吞吐率：6.27req/s] [内存消耗：2,903.25kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '91e8995b6143b4d72c7012a0832c3d0719e786c1',
+  'timestamp' => '1526960604',
+  'nonce' => '415490630',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:43:29+08:00 ] 36.17.125.0 GET /index/index/bind/openid/oqwiq0b9p-VHRSvbS4QJyHJA9NyI.html
+[ info ] yunxi.yunw8.com/index/index/bind/openid/oqwiq0b9p-VHRSvbS4QJyHJA9NyI.html [运行时间：0.118663s][吞吐率：8.43req/s] [内存消耗：2,184.55kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'yunxi.yunw8.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 7.0; EVA-AL10 Build/HUAWEIEVA-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044030 Mobile Safari/537.36 MicroMessenger/6.6.6.1300(0x26060632) NetType/4G Language/zh_CN',
+  'x-forwarded-for' => '36.17.125.0',
+  'x-forwarded-for-pound' => '36.17.125.0',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->bind[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ VIEW ] C:\www\yunxi/application/index\view\index\bind.html [ array (
+  0 => 'openid',
+  1 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:43:51+08:00 ] 101.132.100.6 GET /
+[ info ] yunxi.yunw8.com/ [运行时间：0.030518s][吞吐率：32.77req/s] [内存消耗：1,284.93kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:43:55+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=e3b69cc73e139fccf0a38a261d19454107892786&timestamp=1526960634&nonce=1912078988&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=e3b69cc73e139fccf0a38a261d19454107892786&timestamp=1526960634&nonce=1912078988&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.350592s][吞吐率：2.85req/s] [内存消耗：2,851.54kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'e3b69cc73e139fccf0a38a261d19454107892786',
+  'timestamp' => '1526960634',
+  'nonce' => '1912078988',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:44:02+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=4208942501510b2a60008455c6e57e82f4bc38db&timestamp=1526960642&nonce=147029778&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=4208942501510b2a60008455c6e57e82f4bc38db&timestamp=1526960642&nonce=147029778&openid=oqwiq0b9p-VHRSvbS4QJyHJA9NyI [运行时间：0.039489s][吞吐率：25.32req/s] [内存消耗：2,091.14kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '4208942501510b2a60008455c6e57e82f4bc38db',
+  'timestamp' => '1526960642',
+  'nonce' => '147029778',
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:44:03+08:00 ] 36.17.125.0 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.549327s][吞吐率：1.82req/s] [内存消耗：2,047.77kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'yunxi.yunw8.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 7.0; EVA-AL10 Build/HUAWEIEVA-AL10; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044030 Mobile Safari/537.36 MicroMessenger/6.6.6.1300(0x26060632) NetType/4G Language/zh_CN',
+  'x-forwarded-for' => '36.17.125.0',
+  'x-forwarded-for-pound' => '36.17.125.0',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T11:44:28+08:00 ] 101.226.79.240 GET /index/index/bind/openid/oqwiq0b9p-VHRSvbS4QJyHJA9NyI.html
+[ info ] yunxi.yunw8.com/index/index/bind/openid/oqwiq0b9p-VHRSvbS4QJyHJA9NyI.html [运行时间：0.163467s][吞吐率：6.12req/s] [内存消耗：2,183.35kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'bind',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.4; Coolpad Y82-520 Build/KTU84P) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/33.0.0.0 Mobile Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'yunxi.yunw8.com',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+  'openid' => 'oqwiq0b9p-VHRSvbS4QJyHJA9NyI',
+)
+[ info ] [ RUN ] app\index\controller\Index->bind[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ VIEW ] C:\www\yunxi/application/index\view\index\bind.html [ array (
+  0 => 'openid',
+  1 => 'user',
+) ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T13:33:22+08:00 ] 183.136.190.62 GET /
+[ info ] yunxi.yunw8.com/ [运行时间：0.614633s][吞吐率：1.63req/s] [内存消耗：1,285.76kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T14:55:07+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.619410s][吞吐率：1.61req/s] [内存消耗：2,047.00kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36 MicroMessenger/6.5.2.501 NetType/WIFI WindowsWechat QBCore/3.43.691.400 QQBrowser/9.0.2524.400',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-us;q=0.6,en;q=0.5;q=0.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T14:55:10+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=74d43e6b575c2f720584ac9f7fc7e76a66b57969&timestamp=1526972109&nonce=829418204&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=74d43e6b575c2f720584ac9f7fc7e76a66b57969&timestamp=1526972109&nonce=829418204&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg [运行时间：0.705659s][吞吐率：1.42req/s] [内存消耗：2,852.06kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '74d43e6b575c2f720584ac9f7fc7e76a66b57969',
+  'timestamp' => '1526972109',
+  'nonce' => '829418204',
+  'openid' => 'oqwiq0eplgcTWm3Yook4nNG_ROLg',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T14:55:17+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=b03b7085003bc7a61613d5e3856b18611feca0d0&timestamp=1526972117&nonce=228928153&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=b03b7085003bc7a61613d5e3856b18611feca0d0&timestamp=1526972117&nonce=228928153&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg [运行时间：0.032711s][吞吐率：30.57req/s] [内存消耗：2,091.18kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'b03b7085003bc7a61613d5e3856b18611feca0d0',
+  'timestamp' => '1526972117',
+  'nonce' => '228928153',
+  'openid' => 'oqwiq0eplgcTWm3Yook4nNG_ROLg',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T14:55:24+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=114ff1c7193f2c87dce24e3558eecfc7983c467c&timestamp=1526972124&nonce=1809711737&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=114ff1c7193f2c87dce24e3558eecfc7983c467c&timestamp=1526972124&nonce=1809711737&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg [运行时间：0.123779s][吞吐率：8.08req/s] [内存消耗：2,842.30kb] [文件加载：41]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '114ff1c7193f2c87dce24e3558eecfc7983c467c',
+  'timestamp' => '1526972124',
+  'nonce' => '1809711737',
+  'openid' => 'oqwiq0eplgcTWm3Yook4nNG_ROLg',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T14:55:31+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=3d73d5855a5bcba2b63eb2b86f92ec0caba70e92&timestamp=1526972131&nonce=2096431371&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=3d73d5855a5bcba2b63eb2b86f92ec0caba70e92&timestamp=1526972131&nonce=2096431371&openid=oqwiq0eplgcTWm3Yook4nNG_ROLg [运行时间：0.160066s][吞吐率：6.25req/s] [内存消耗：2,842.29kb] [文件加载：41]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '3d73d5855a5bcba2b63eb2b86f92ec0caba70e92',
+  'timestamp' => '1526972131',
+  'nonce' => '2096431371',
+  'openid' => 'oqwiq0eplgcTWm3Yook4nNG_ROLg',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T14:55:57+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.484647s][吞吐率：2.06req/s] [内存消耗：2,047.70kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'yunxi.yunw8.com',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.4; HM NOTE 1S Build/KTU84P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/6.2 TBS/044033 Mobile Safari/537.36 MicroMessenger/6.6.6.1300(0x26060637) NetType/WIFI Language/zh_CN',
+  'x-forwarded-for' => '61.140.237.1',
+  'x-forwarded-for-pound' => '61.140.237.1',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T15:56:49+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=ad3d50ba38a979194bd5dd57cd1ebe7f0731c1ac&timestamp=1526975808&nonce=2031261656&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=ad3d50ba38a979194bd5dd57cd1ebe7f0731c1ac&timestamp=1526975808&nonce=2031261656&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.562945s][吞吐率：1.78req/s] [内存消耗：2,091.11kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '275',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'ad3d50ba38a979194bd5dd57cd1ebe7f0731c1ac',
+  'timestamp' => '1526975808',
+  'nonce' => '2031261656',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T15:56:51+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=9bee672b5609df8c7b9312b07749f8ecbda1b259&timestamp=1526975810&nonce=1279963832&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=9bee672b5609df8c7b9312b07749f8ecbda1b259&timestamp=1526975810&nonce=1279963832&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.040165s][吞吐率：24.90req/s] [内存消耗：2,091.18kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '350',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '9bee672b5609df8c7b9312b07749f8ecbda1b259',
+  'timestamp' => '1526975810',
+  'nonce' => '1279963832',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T15:56:51+08:00 ] 61.140.237.1 GET /index/index/getxiaofei.html
+[ info ] yunxi.yunw8.com/index/index/getxiaofei.html [运行时间：0.533693s][吞吐率：1.87req/s] [内存消耗：2,047.63kb] [文件加载：34]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getxiaofei',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'UM_distinctid=16381c84662153-01157ff03daa7-61273c3b-4a640-16381c846638e; CNZZDATA1271720685=991872422-1526888512-%7C1526888512',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 11_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E302 MicroMessenger/6.6.6 NetType/WIFI Language/zh_CN',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getXiaofei[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-05-22T15:56:56+08:00 ] 140.207.54.80 POST /index/index/yanzheng?signature=7f16f2aceb82a0f516692fef62837b68b70c9953&timestamp=1526975816&nonce=129699417&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=7f16f2aceb82a0f516692fef62837b68b70c9953&timestamp=1526975816&nonce=129699417&openid=oqwiq0Sjx2J8uUER2Z7fYsDsRAfE [运行时间：0.341473s][吞吐率：2.93req/s] [内存消耗：2,852.05kb] [文件加载：42]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '276',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '7f16f2aceb82a0f516692fef62837b68b70c9953',
+  'timestamp' => '1526975816',
+  'nonce' => '129699417',
+  'openid' => 'oqwiq0Sjx2J8uUER2Z7fYsDsRAfE',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File

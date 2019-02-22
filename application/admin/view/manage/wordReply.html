@@ -1,0 +1,92 @@
+{include file="public/header" /}
+
+			<!-- start: Content -->
+			<div id="content" class="span10">
+			
+						
+				<div class="row-fluid">
+					
+						
+					<div class="box-content">
+						<div id="MyWizard" class="wizard">
+						</div>
+						<div class="step-content">
+							<div class="step-pane active" id="step1">
+								<form class="form-horizontal" method="post" />
+									<fieldset>	
+										<div class="control-group warning">
+											<label class="control-label" for="">关键词回复</label>
+											<div class="controls">
+									  			<textarea name="keyword[]" id="" >{$data[0]}</textarea>
+									  			<span class="help-inline">输入格式(关键词:回复值；如"aa:123") </span>
+											</div>
+								  		</div>
+								  		{volist name="data" key="k" id="vo"}
+								  		{gt name='k' value="1"}
+										<div class="control-group warning deletetap">
+											<label class="control-label" for="">关键词回复</label>
+											<div class="controls">
+									  			<textarea name="keyword[]" id="" >{$vo}</textarea>
+									  			<span class="help-inline">格式-> 关键词:回复值</span>
+											</div>
+								  		</div>
+								  		{/gt}
+								  		{/volist}
+									</fieldset>
+									<input type="submit" value="保存"/>
+								</form>
+								<div class="control-group warning">
+									<button class="addMore">增加关键词回复</button>
+									<button class="subOne">删除最后一个</button>
+						  		</div>
+							</div>
+
+						</div>
+					
+					</div>
+				</div>		
+			</div>
+			<!-- end: Content -->
+				
+		</div><!--/fluid-row-->
+				
+		<div class="modal hide fade" id="myModal">
+			<div class="modal-header">
+				<button type="button" class="close" data-dismiss="modal">×</button>
+				<h3>Settings</h3>
+			</div>
+			<div class="modal-body">
+				<p>Here settings can be configured...</p>
+			</div>
+			<div class="modal-footer">
+				<a href="#" class="btn" data-dismiss="modal">Close</a>
+				<a href="#" class="btn btn-primary">Save changes</a>
+			</div>
+		</div>
+		
+		<div class="clearfix"></div>
+
+		<script type="text/javascript">
+
+		$(document).ready(function(){
+			$(document).on("click",".addMore",function(){
+				var html = '';
+
+					html +='					<div class="control-group warning deletetap">';
+					html +='						<label class="control-label" for="">关键词回复</label>';
+					html +='						<div class="controls">';
+					html +='				  			<textarea name="keyword[]" id="" ></textarea>';
+					html +='				  			<span class="help-inline">格式-> 关键词:回复值</span>';
+					html +='						</div>';
+					html +='			  		</div>';
+				$("fieldset").append(html);
+			})
+
+
+			$(document).on("click",".subOne",function(){
+
+				$('.deletetap').eq(-1).remove();
+			})
+		})
+		</script>
+{include file="public/footer" /}

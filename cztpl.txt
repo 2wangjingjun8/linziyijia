@@ -1,0 +1,8 @@
+2018-12-25 15:55:37
+
+[{"CardsCode":"18813967622","Amount":"1668.000","AddDate":"2018-12-23 21:40:20.507","ROW_NUMBER":"1"},{"CardsCode":"18813967622","Amount":"490.000","AddDate":"2018-12-23 21:41:43.430","ROW_NUMBER":"2"}]2018-12-25 16:11:55
+
+2019-01-08 14:43:24 addcardno= openid 为空
+2019-01-13 18:24:25 addcardno= openid 为空
+2019-01-13 21:42:25 addcardno= openid 为空
+2019-01-14 16:16:25 addcardno= openid 为空

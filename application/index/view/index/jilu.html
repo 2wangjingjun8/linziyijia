@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+  <title>消费记录列表</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+</head>
+<body>
+<div class="container">
+<div style="height:20px;"></div>
+<!-- <blockquote class="border-main">消费记录</blockquote>  -->
+<div class="alert alert-info alert-dismissible" role="alert">
+  <strong>消费记录!</strong>
+</div>
+{volist name="list" id="vo"}
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <div class="panel-title">订单号：{$vo.OrderNo}</div>
+  </div>
+  <div class="panel-body">
+    {volist name="vo['goods']" id="s"}
+      商品名称：{$s.GoodsName}<br/>
+      颜色：{$s.ColorName} / 尺码：{$s.SizeName} / 数量：{$s.Quantity}<br/>
+      价格：{$s.Amount} / 折扣：{$s.Discount} 
+      {if condition="count($vo['goods']) > 1 "}<hr/>{/if}
+    {/volist}
+  </div>
+  <div class="panel-footer">
+    <span class="text-left">时间：{$vo.OrderDate}</span> 
+    <span style="float:right">合计 {$vo.RealAmount} 元</span>
+  </div>
+</div>
+{/volist}
+
+{$page}
+</div>
+<script src="/public/static/jquery.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,3545 @@
+---------------------------------------------------------------
+[ 2018-12-27T09:34:20+08:00 ] 61.140.233.210 GET /
+[ info ] www.ice21.top/ [运行时间：0.269210s][吞吐率：3.71req/s] [内存消耗：1,296.30kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:35:20+08:00 ] 101.89.239.120 GET /
+[ info ] www.ice21.top/ [运行时间：0.035016s][吞吐率：28.56req/s] [内存消耗：1,295.68kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.054795s][吞吐率：18.25req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.034897s][吞吐率：28.66req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.079572s][吞吐率：12.57req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.074400s][吞吐率：13.44req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.087187s][吞吐率：11.47req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.119161s][吞吐率：8.39req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.130823s][吞吐率：7.64req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024401s][吞吐率：40.98req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.026929s][吞吐率：37.13req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024413s][吞吐率：40.96req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.057378s][吞吐率：17.43req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.068081s][吞吐率：14.69req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.079375s][吞吐率：12.60req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.025840s][吞吐率：38.70req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019791s][吞吐率：50.53req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024299s][吞吐率：41.15req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019746s][吞吐率：50.64req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.022177s][吞吐率：45.09req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.026990s][吞吐率：37.05req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.031771s][吞吐率：31.48req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.031590s][吞吐率：31.66req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.028119s][吞吐率：35.56req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024716s][吞吐率：40.46req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.031166s][吞吐率：32.09req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.031038s][吞吐率：32.22req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.030425s][吞吐率：32.87req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.060725s][吞吐率：16.47req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.027639s][吞吐率：36.18req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019851s][吞吐率：50.38req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019496s][吞吐率：51.29req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019917s][吞吐率：50.21req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019672s][吞吐率：50.83req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024162s][吞吐率：41.39req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019342s][吞吐率：51.70req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019462s][吞吐率：51.38req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019887s][吞吐率：50.28req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024626s][吞吐率：40.61req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.048690s][吞吐率：20.54req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019733s][吞吐率：50.68req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.023812s][吞吐率：42.00req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.022076s][吞吐率：45.30req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019920s][吞吐率：50.20req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019387s][吞吐率：51.58req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019503s][吞吐率：51.27req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.023735s][吞吐率：42.13req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019558s][吞吐率：51.13req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019403s][吞吐率：51.54req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019689s][吞吐率：50.79req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:18+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024409s][吞吐率：40.97req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019504s][吞吐率：51.27req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024374s][吞吐率：41.03req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.051593s][吞吐率：19.38req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019786s][吞吐率：50.54req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.040611s][吞吐率：24.62req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.041333s][吞吐率：24.19req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.025946s][吞吐率：38.54req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.022401s][吞吐率：44.64req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019864s][吞吐率：50.34req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019381s][吞吐率：51.60req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024484s][吞吐率：40.84req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019523s][吞吐率：51.22req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.022292s][吞吐率：44.86req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.035418s][吞吐率：28.23req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.041033s][吞吐率：24.37req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019708s][吞吐率：50.74req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019498s][吞吐率：51.29req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019597s][吞吐率：51.03req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.023774s][吞吐率：42.06req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.020252s][吞吐率：49.38req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019402s][吞吐率：51.54req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019794s][吞吐率：50.52req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024457s][吞吐率：40.89req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019897s][吞吐率：50.26req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019528s][吞吐率：51.21req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019947s][吞吐率：50.13req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019661s][吞吐率：50.86req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019855s][吞吐率：50.37req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.028251s][吞吐率：35.40req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.030938s][吞吐率：32.32req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.029087s][吞吐率：34.38req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.021855s][吞吐率：45.76req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.022353s][吞吐率：44.74req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019737s][吞吐率：50.67req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.020036s][吞吐率：49.91req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.021521s][吞吐率：46.47req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.020702s][吞吐率：48.30req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.036962s][吞吐率：27.05req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.046371s][吞吐率：21.57req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019679s][吞吐率：50.82req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019821s][吞吐率：50.45req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.020361s][吞吐率：49.11req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.026215s][吞吐率：38.15req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.020129s][吞吐率：49.68req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.031988s][吞吐率：31.26req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019660s][吞吐率：50.86req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019473s][吞吐率：51.35req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.024203s][吞吐率：41.32req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.025952s][吞吐率：38.53req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.019815s][吞吐率：50.47req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:40:19+08:00 ] 120.76.54.183 GET /
+[ info ] www.ice21.top/ [运行时间：0.027964s][吞吐率：35.76req/s] [内存消耗：1,295.22kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => '*/*',
+  'user-agent' => 'python-requests/2.12.4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:45:43+08:00 ] 223.104.63.89 GET /index/index/getusers.html
+[ info ] www.ice21.top/index/index/getusers.html [运行时间：0.073169s][吞吐率：13.67req/s] [内存消耗：2,073.21kb] [文件加载：36]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:45:44+08:00 ] 112.60.1.124 GET /
+[ info ] www.ice21.top/ [运行时间：0.027545s][吞吐率：36.30req/s] [内存消耗：1,296.63kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'close',
+  'content-length' => '0',
+  'host' => 'www.ice21.top',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:45:44+08:00 ] 157.255.172.18 GET /
+[ info ] www.ice21.top/ [运行时间：0.030589s][吞吐率：32.69req/s] [内存消耗：1,296.63kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'close',
+  'content-length' => '0',
+  'host' => 'www.ice21.top',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:45:44+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=081adkPS03GU6Z1xABQS0O26PS0adkP5&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=081adkPS03GU6Z1xABQS0O26PS0adkP5&state=wxbase [运行时间：0.864990s][吞吐率：1.16req/s] [内存消耗：2,870.04kb] [文件加载：43]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081adkPS03GU6Z1xABQS0O26PS0adkP5',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ error ] [IMSSP]SQLSTATE[IMSSP]: This extension requires the Microsoft ODBC Driver 11 for SQL Server to communicate with SQL Server. Access the following URL to download the ODBC Driver 11 for SQL Server for x86: http://go.microsoft.com/fwlink/?LinkId=163712[C:\www\linziyijia\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-12-27T09:45:45+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=081adkPS03GU6Z1xABQS0O26PS0adkP5&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=081adkPS03GU6Z1xABQS0O26PS0adkP5&state=wxbase [运行时间：0.202661s][吞吐率：4.93req/s] [内存消耗：2,147.25kb] [文件加载：39]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+)
+[ info ] [ PARAM ] array (
+  'code' => '081adkPS03GU6Z1xABQS0O26PS0adkP5',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: _SESSION[C:\www\linziyijia\application\index\controller\Index.php:318]
+---------------------------------------------------------------
+[ 2018-12-27T09:45:49+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=3993bf89245d41a30d95c4ead5f1dd9c6df3a7cb&timestamp=1545875149&nonce=1475025635&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=3993bf89245d41a30d95c4ead5f1dd9c6df3a7cb&timestamp=1545875149&nonce=1475025635&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.049475s][吞吐率：20.21req/s] [内存消耗：2,880.11kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '285',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '3993bf89245d41a30d95c4ead5f1dd9c6df3a7cb',
+  'timestamp' => '1545875149',
+  'nonce' => '1475025635',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ error ] [IMSSP]SQLSTATE[IMSSP]: This extension requires the Microsoft ODBC Driver 11 for SQL Server to communicate with SQL Server. Access the following URL to download the ODBC Driver 11 for SQL Server for x86: http://go.microsoft.com/fwlink/?LinkId=163712[C:\www\linziyijia\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-12-27T09:45:51+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=2b065f3bb67e754b4b732f56a8adc94d2c6155b0&timestamp=1545875151&nonce=493402675&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=2b065f3bb67e754b4b732f56a8adc94d2c6155b0&timestamp=1545875151&nonce=493402675&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.035269s][吞吐率：28.35req/s] [内存消耗：2,101.75kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '346',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '2b065f3bb67e754b4b732f56a8adc94d2c6155b0',
+  'timestamp' => '1545875151',
+  'nonce' => '493402675',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:45:55+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=3a5f920c53fde506a43ca609b252746179b4025c&timestamp=1545875155&nonce=1123522588&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=3a5f920c53fde506a43ca609b252746179b4025c&timestamp=1545875155&nonce=1123522588&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.049437s][吞吐率：20.23req/s] [内存消耗：2,880.10kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '290',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '3a5f920c53fde506a43ca609b252746179b4025c',
+  'timestamp' => '1545875155',
+  'nonce' => '1123522588',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ error ] [IMSSP]SQLSTATE[IMSSP]: This extension requires the Microsoft ODBC Driver 11 for SQL Server to communicate with SQL Server. Access the following URL to download the ODBC Driver 11 for SQL Server for x86: http://go.microsoft.com/fwlink/?LinkId=163712[C:\www\linziyijia\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-12-27T09:46:06+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=37590ed2466d306cdb97d33c4086f31c954e38f9&timestamp=1545875166&nonce=1407068194&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=37590ed2466d306cdb97d33c4086f31c954e38f9&timestamp=1545875166&nonce=1407068194&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.035271s][吞吐率：28.35req/s] [内存消耗：2,101.75kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '346',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '37590ed2466d306cdb97d33c4086f31c954e38f9',
+  'timestamp' => '1545875166',
+  'nonce' => '1407068194',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:46:07+08:00 ] 223.104.63.89 GET /index/index/getusers.html
+[ info ] www.ice21.top/index/index/getusers.html [运行时间：0.034841s][吞吐率：28.70req/s] [内存消耗：2,073.27kb] [文件加载：36]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:46:08+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=061v1QJ02ATPJU0exbI02BeGJ02v1QJJ&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=061v1QJ02ATPJU0exbI02BeGJ02v1QJJ&state=wxbase [运行时间：0.602868s][吞吐率：1.66req/s] [内存消耗：2,870.13kb] [文件加载：43]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061v1QJ02ATPJU0exbI02BeGJ02v1QJJ',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ error ] [IMSSP]SQLSTATE[IMSSP]: This extension requires the Microsoft ODBC Driver 11 for SQL Server to communicate with SQL Server. Access the following URL to download the ODBC Driver 11 for SQL Server for x86: http://go.microsoft.com/fwlink/?LinkId=163712[C:\www\linziyijia\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-12-27T09:46:09+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=061v1QJ02ATPJU0exbI02BeGJ02v1QJJ&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=061v1QJ02ATPJU0exbI02BeGJ02v1QJJ&state=wxbase [运行时间：0.173448s][吞吐率：5.77req/s] [内存消耗：2,147.20kb] [文件加载：39]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061v1QJ02ATPJU0exbI02BeGJ02v1QJJ',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+[ error ] [8]未定义变量: _SESSION[C:\www\linziyijia\application\index\controller\Index.php:318]
+---------------------------------------------------------------
+[ 2018-12-27T09:46:18+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=3b3d9d2e25b18a83239ff39d82327c0ecdfa9d46&timestamp=1545875178&nonce=505097549&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=3b3d9d2e25b18a83239ff39d82327c0ecdfa9d46&timestamp=1545875178&nonce=505097549&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.050128s][吞吐率：19.95req/s] [内存消耗：2,880.13kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '281',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '3b3d9d2e25b18a83239ff39d82327c0ecdfa9d46',
+  'timestamp' => '1545875178',
+  'nonce' => '505097549',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ error ] [IMSSP]SQLSTATE[IMSSP]: This extension requires the Microsoft ODBC Driver 11 for SQL Server to communicate with SQL Server. Access the following URL to download the ODBC Driver 11 for SQL Server for x86: http://go.microsoft.com/fwlink/?LinkId=163712[C:\www\linziyijia\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-12-27T09:46:33+08:00 ] 61.140.233.210 GET /
+[ info ] www.ice21.top/ [运行时间：0.027075s][吞吐率：36.93req/s] [内存消耗：1,296.55kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T09:46:41+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=41ec829505d08d11713c620378f056dcdf069e09&timestamp=1545875201&nonce=1482872055&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=41ec829505d08d11713c620378f056dcdf069e09&timestamp=1545875201&nonce=1482872055&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.049505s][吞吐率：20.20req/s] [内存消耗：2,880.11kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '285',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '41ec829505d08d11713c620378f056dcdf069e09',
+  'timestamp' => '1545875201',
+  'nonce' => '1482872055',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ error ] [IMSSP]SQLSTATE[IMSSP]: This extension requires the Microsoft ODBC Driver 11 for SQL Server to communicate with SQL Server. Access the following URL to download the ODBC Driver 11 for SQL Server for x86: http://go.microsoft.com/fwlink/?LinkId=163712[C:\www\linziyijia\thinkphp\library\think\db\Connection.php:295]
+---------------------------------------------------------------
+[ 2018-12-27T09:46:42+08:00 ] 61.151.178.217 GET /index/index/getusers.html
+[ info ] www.ice21.top/index/index/getusers.html [运行时间：0.038168s][吞吐率：26.20req/s] [内存消耗：2,071.70kb] [文件加载：36]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 4.4.4; HUAWEI ALE-CL00 Build/HuaweiALE-CL00; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/53.0.2785.49 Mobile MQQBrowser/6.2 TBS/043024 Safari/537.36 MicroMessenger/6.5.4.1000 NetType/4G Language/zh_CN',
+  'accept' => '*/*',
+  'accept-language' => 'zh-CN,zh;q=0.8,en-US;q=0.6,en;q=0.4',
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T10:00:55+08:00 ] 61.140.233.210 GET /
+[ info ] www.ice21.top/ [运行时间：0.029261s][吞吐率：34.18req/s] [内存消耗：1,296.55kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:15:18+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=06713f04a4312a7208c4b25d74b9a590647ad0dc&timestamp=1545894916&nonce=902567731&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=06713f04a4312a7208c4b25d74b9a590647ad0dc&timestamp=1545894916&nonce=902567731&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：2.418684s][吞吐率：0.41req/s] [内存消耗：2,972.57kb] [文件加载：45]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '285',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '06713f04a4312a7208c4b25d74b9a590647ad0dc',
+  'timestamp' => '1545894916',
+  'nonce' => '902567731',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.055565s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.163354s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.196776s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.027625s ]
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtsaleorder' [ RunTime:0.056687s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtsaleorder' [ RunTime:0.107979s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  COUNT(*) AS tp_count FROM [qtsaleorder] WHERE  [CardCode] = '18813967622') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:1.127320s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:15:22+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=10307ebd72a0e2b8feb44847a118b3b6a77253b7&timestamp=1545894922&nonce=618297791&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=10307ebd72a0e2b8feb44847a118b3b6a77253b7&timestamp=1545894922&nonce=618297791&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.035266s][吞吐率：28.36req/s] [内存消耗：2,101.73kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '346',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '10307ebd72a0e2b8feb44847a118b3b6a77253b7',
+  'timestamp' => '1545894922',
+  'nonce' => '618297791',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:15:24+08:00 ] 157.255.172.22 GET /
+[ info ] www.ice21.top/ [运行时间：0.028954s][吞吐率：34.54req/s] [内存消耗：1,296.64kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'close',
+  'content-length' => '0',
+  'host' => 'www.ice21.top',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:15:24+08:00 ] 14.116.133.169 GET /
+[ info ] www.ice21.top/ [运行时间：0.040697s][吞吐率：24.57req/s] [内存消耗：1,296.66kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/vnd.wap.wml,text/html,application/vnd.wap.xhtml+xml,application/xhtml+xml',
+  'accept-charset' => 'gb2312,iso8859-1,utf-8',
+  'accept-encoding' => 'gzip,deflate',
+  'connection' => 'close',
+  'content-length' => '0',
+  'host' => 'www.ice21.top',
+  'q-ua' => 'KQB22_GA/220020&KMTT_3/200020&JV2&151920&SunMicrosystemswtk&0&4309&V3',
+  'user-agent' => 'Mozilla/5.0 (Windows; U; Windows NT 5.1; zh-CN; rv:1.9b4) Gecko/2008030317 Firefox/3.0b4',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:15:24+08:00 ] 223.104.63.89 GET /index/index/getusers.html
+[ info ] www.ice21.top/index/index/getusers.html [运行时间：0.067841s][吞吐率：14.74req/s] [内存消耗：2,073.21kb] [文件加载：36]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:15:26+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=0117eTkU1dpAaX0UQUiU1F1AkU17eTkZ&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=0117eTkU1dpAaX0UQUiU1F1AkU17eTkZ&state=wxbase [运行时间：1.098132s][吞吐率：0.91req/s] [内存消耗：2,958.04kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,en-US;q=0.9',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+  'code' => '0117eTkU1dpAaX0UQUiU1F1AkU17eTkZ',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ VIEW ] C:\www\linziyijia/application/index\view\index\user.html [ array (
+  0 => 'user',
+  1 => 'userinfo',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000116s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.011223s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.010718s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.027954s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:15:29+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=5420165f673bc94b5bd2167c2d6bf4929690baa3&timestamp=1545894929&nonce=1730781891&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=5420165f673bc94b5bd2167c2d6bf4929690baa3&timestamp=1545894929&nonce=1730781891&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.105296s][吞吐率：9.50req/s] [内存消耗：2,898.91kb] [文件加载：43]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '290',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '5420165f673bc94b5bd2167c2d6bf4929690baa3',
+  'timestamp' => '1545894929',
+  'nonce' => '1730781891',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000126s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.011094s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.010657s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.023828s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:16:15+08:00 ] 101.226.114.195 GET /
+[ info ] linzi.yunw8.com/ [运行时间：0.022144s][吞吐率：45.16req/s] [内存消耗：1,296.03kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'linzi.yunw8.com',
+  'accept-encoding' => 'deflate, gzip',
+  'accept' => '*/*',
+  'accept-language' => 'zh-cn',
+  'user-agent' => 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_3_4 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Mobile/13G35 QQ/6.5.3.410 V1_IPH_SQ_6.5.3_1_APP_A Pixel/750 Core/UIWebView NetType/2G Mem/117',
+  'connection' => 'Close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:17:59+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=37fa7ccd377e6fd34e1b44b094cbeaf6dcbffb57&timestamp=1545895079&nonce=1425162163&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=37fa7ccd377e6fd34e1b44b094cbeaf6dcbffb57&timestamp=1545895079&nonce=1425162163&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.031907s][吞吐率：31.34req/s] [内存消耗：2,101.76kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '346',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '37fa7ccd377e6fd34e1b44b094cbeaf6dcbffb57',
+  'timestamp' => '1545895079',
+  'nonce' => '1425162163',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:18:00+08:00 ] 223.104.63.89 GET /index/index/getusers.html
+[ info ] www.ice21.top/index/index/getusers.html [运行时间：0.026807s][吞吐率：37.30req/s] [内存消耗：2,073.29kb] [文件加载：36]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:18:02+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=001ujze71Re3ZL12IFe71POPe71ujzeI&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=001ujze71Re3ZL12IFe71POPe71ujzeI&state=wxbase [运行时间：1.096247s][吞吐率：0.91req/s] [内存消耗：2,958.02kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+  'code' => '001ujze71Re3ZL12IFe71POPe71ujzeI',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ VIEW ] C:\www\linziyijia/application/index\view\index\user.html [ array (
+  0 => 'user',
+  1 => 'userinfo',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.062206s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.012713s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.012345s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.026953s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:22:40+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=cd5c396bc03c49070e11a9f5443878cc960d1650&timestamp=1545895360&nonce=1277751998&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=cd5c396bc03c49070e11a9f5443878cc960d1650&timestamp=1545895360&nonce=1277751998&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.176684s][吞吐率：5.66req/s] [内存消耗：2,898.91kb] [文件加载：43]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '290',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'cd5c396bc03c49070e11a9f5443878cc960d1650',
+  'timestamp' => '1545895360',
+  'nonce' => '1277751998',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.059112s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.011830s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.011459s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.025382s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:22:43+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=bf78e387e93cb28899d2465c591dfa7c7254da15&timestamp=1545895363&nonce=716093776&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=bf78e387e93cb28899d2465c591dfa7c7254da15&timestamp=1545895363&nonce=716093776&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.213217s][吞吐率：4.69req/s] [内存消耗：2,972.57kb] [文件加载：45]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '285',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'bf78e387e93cb28899d2465c591dfa7c7254da15',
+  'timestamp' => '1545895363',
+  'nonce' => '716093776',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000113s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.011868s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.012438s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.026825s ]
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtsaleorder' [ RunTime:0.022659s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtsaleorder' [ RunTime:0.011626s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  COUNT(*) AS tp_count FROM [qtsaleorder] WHERE  [CardCode] = '18813967622') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.031276s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:22:46+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=e077bf6e2a319ff00274a1fb521b7a43235a7359&timestamp=1545895366&nonce=659034199&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=e077bf6e2a319ff00274a1fb521b7a43235a7359&timestamp=1545895366&nonce=659034199&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.035258s][吞吐率：28.36req/s] [内存消耗：2,101.73kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '346',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => 'e077bf6e2a319ff00274a1fb521b7a43235a7359',
+  'timestamp' => '1545895366',
+  'nonce' => '659034199',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:22:46+08:00 ] 223.104.63.89 GET /index/index/getusers.html
+[ info ] www.ice21.top/index/index/getusers.html [运行时间：0.041506s][吞吐率：24.09req/s] [内存消耗：2,073.29kb] [文件加载：36]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-27T15:22:48+08:00 ] 223.104.63.89 GET /index/index/getusers.html?code=061BNVvG10kab00e02vG1GkHvG1BNVvj&state=wxbase
+[ info ] www.ice21.top/index/index/getusers.html?code=061BNVvG10kab00e02vG1GkHvG1BNVvj&state=wxbase [运行时间：1.075346s][吞吐率：0.93req/s] [内存消耗：2,958.02kb] [文件加载：44]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'getusers',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,image/wxpic,image/sharpp,image/apng,image/tpg,*/*;q=0.8',
+  'accept-encoding' => 'gzip',
+  'accept-language' => 'zh-CN,zh-CN;q=0.9,en-US;q=0.8',
+  'connection' => 'close',
+  'host' => 'www.ice21.top',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Linux; Android 8.0.0; BLN-AL20 Build/HONORBLN-AL20; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/66.0.3359.126 MQQBrowser/6.2 TBS/044428 Mobile Safari/537.36 MMWEBID/8013 MicroMessenger/6.7.3.1360(0x2607033D) NetType/4G Language/zh_CN Process/tools',
+  'x-forwarded-for' => '223.104.63.89',
+  'x-forwarded-for-pound' => '223.104.63.89',
+)
+[ info ] [ PARAM ] array (
+  'code' => '061BNVvG10kab00e02vG1GkHvG1BNVvj',
+  'state' => 'wxbase',
+)
+[ info ] [ RUN ] app\index\controller\Index->getUsers[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ VIEW ] C:\www\linziyijia/application/index\view\index\user.html [ array (
+  0 => 'user',
+  1 => 'userinfo',
+) ]
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000117s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.011920s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.011477s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.025455s ]
+---------------------------------------------------------------
+[ 2018-12-27T15:30:03+08:00 ] 223.166.222.109 POST /index.php/index/Index/yanzheng?signature=8d5dab2a69d1a1aec297df3b047ccbef95c25123&timestamp=1545895803&nonce=267776085&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0
+[ info ] www.ice21.top/index.php/index/Index/yanzheng?signature=8d5dab2a69d1a1aec297df3b047ccbef95c25123&timestamp=1545895803&nonce=267776085&openid=ok5Tx1CopF8iijR_X4mlwR40XCw0 [运行时间：0.192593s][吞吐率：5.19req/s] [内存消耗：2,898.91kb] [文件加载：43]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'Index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'www.ice21.top',
+  'pragma' => 'no-cache',
+  'content-length' => '290',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '8d5dab2a69d1a1aec297df3b047ccbef95c25123',
+  'timestamp' => '1545895803',
+  'nonce' => '267776085',
+  'openid' => 'ok5Tx1CopF8iijR_X4mlwR40XCw0',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ DB ] INIT sqlsrv
+[ info ] [ LOG ] INIT File
+[ sql ] [ DB ] CONNECT:[ UseTime:0.063700s ] sqlsrv:Database=lzyj_;Server=120.31.135.37,1422
+[ sql ] [ SQL ] SELECT   column_name,   data_type,   column_default,   is_nullable
+        FROM    information_schema.tables AS t
+        JOIN    information_schema.columns AS c
+        ON  t.table_catalog = c.table_catalog
+        AND t.table_schema  = c.table_schema
+        AND t.table_name    = c.table_name
+        WHERE   t.table_name = 'qtcards' [ RunTime:0.012169s ]
+[ sql ] [ SQL ] SELECT column_name FROM information_schema.key_column_usage WHERE table_name='qtcards' [ RunTime:0.012239s ]
+[ sql ] [ SQL ] SELECT T1.* FROM (SELECT thinkphp.*, ROW_NUMBER() OVER ( ORDER BY rand()) AS ROW_NUMBER FROM (SELECT  * FROM [qtcards] WHERE  [WXOpenId] = 'ok5Tx1CopF8iijR_X4mlwR40XCw0') AS thinkphp) AS T1 WHERE (T1.ROW_NUMBER BETWEEN 1 AND 1) [ RunTime:0.027456s ]

@@ -1,0 +1,55 @@
+---------------------------------------------------------------
+[ 2018-08-09T13:15:02+08:00 ] 183.136.190.62 GET /
+[ info ] yunxi.yunw8.com/ [运行时间：0.041205s][吞吐率：24.27req/s] [内存消耗：1,296.95kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'yunxi.yunw8.com',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-encoding' => '',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'cache-control' => 'max-age=0',
+  'connection' => 'close',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-08-09T15:34:10+08:00 ] 140.207.54.79 POST /index/index/yanzheng?signature=2de837f4c65b237d9bf3b1073859bf5964f6d282&timestamp=1533800050&nonce=206293578&openid=oqwiq0bTmIrjJA0eE8yVH18D8wCU
+[ info ] yunxi.yunw8.com/index/index/yanzheng?signature=2de837f4c65b237d9bf3b1073859bf5964f6d282&timestamp=1533800050&nonce=206293578&openid=oqwiq0bTmIrjJA0eE8yVH18D8wCU [运行时间：0.067788s][吞吐率：14.75req/s] [内存消耗：2,102.74kb] [文件加载：35]
+[ info ] [ LANG ] C:\www\yunxi\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'index',
+    1 => 'index',
+    2 => 'yanzheng',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/4.0',
+  'accept' => '*/*',
+  'host' => 'yunxi.yunw8.com',
+  'pragma' => 'no-cache',
+  'content-length' => '280',
+  'content-type' => 'text/xml',
+)
+[ info ] [ PARAM ] array (
+  'signature' => '2de837f4c65b237d9bf3b1073859bf5964f6d282',
+  'timestamp' => '1533800050',
+  'nonce' => '206293578',
+  'openid' => 'oqwiq0bTmIrjJA0eE8yVH18D8wCU',
+)
+[ info ] [ RUN ] app\index\controller\Index->yanzheng[ C:\www\yunxi\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File

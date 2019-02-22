@@ -1,0 +1,121 @@
+---------------------------------------------------------------
+[ 2018-12-22T03:43:49+08:00 ] 106.14.187.159 GET /
+[ info ] www.ice21.top/ [运行时间：0.075791s][吞吐率：13.19req/s] [内存消耗：1,296.52kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Java/1.8.0_121',
+  'host' => 'www.ice21.top',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-22T04:05:41+08:00 ] 106.14.187.159 GET /
+[ info ] www.ice21.top/ [运行时间：0.030384s][吞吐率：32.91req/s] [内存消耗：1,296.52kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Java/1.8.0_121',
+  'host' => 'www.ice21.top',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-22T10:01:38+08:00 ] 101.132.126.80 GET /
+[ info ] www.ice21.top/ [运行时间：0.077534s][吞吐率：12.90req/s] [内存消耗：1,296.77kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'www.ice21.top',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-22T10:27:44+08:00 ] 106.15.229.102 GET /
+[ info ] www.ice21.top/ [运行时间：0.031292s][吞吐率：31.96req/s] [内存消耗：1,296.77kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'user-agent' => 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:36.0) Gecko/20100101 Firefox/36.0',
+  'host' => 'www.ice21.top',
+  'accept' => 'text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
+---------------------------------------------------------------
+[ 2018-12-22T17:46:19+08:00 ] 202.173.11.248 GET /
+[ info ] www.ice21.top/ [运行时间：0.086755s][吞吐率：11.53req/s] [内存消耗：1,298.26kb] [文件加载：32]
+[ info ] [ LANG ] C:\www\linziyijia\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'www.ice21.top',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+  'accept-language' => 'zh-CN,zh;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.ice21.top',
+  'connection' => 'keep-alive',
+  'dnt' => '1',
+  'cache-control' => 'no-cache',
+  'pragma' => 'no-cache',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\index\controller\Index->index[ C:\www\linziyijia\application\index\controller\Index.php ]
+[ info ] [ LOG ] INIT File
