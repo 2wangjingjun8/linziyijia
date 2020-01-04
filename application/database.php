@@ -13,13 +13,13 @@ return [
     // 数据库类型
     'type'            => 'sqlsrv',
     // 服务器地址
-    'hostname'        => '120.31.135.37',
+    'hostname'        => '******',
     // 数据库名
     'database'        => 'lzyj',
     // 用户名
     'username'        => 'sa',
     // 密码
-    'password'        => 'ren20070606',
+    'password'        => '******',
     // 端口
     'hostport'        => '1422',
     // 连接dsn
