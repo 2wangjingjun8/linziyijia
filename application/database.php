@@ -15,7 +15,7 @@ return [
     // 服务器地址
     'hostname'        => '******',
     // 数据库名
-    'database'        => 'lzyj',
+    'database'        => '******',
     // 用户名
     'username'        => 'sa',
     // 密码
